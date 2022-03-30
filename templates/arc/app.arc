@@ -11,4 +11,3 @@ remix-architect-app
 # @aws
 # profile default
 # region us-west-1
-  
